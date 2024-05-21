@@ -50,15 +50,15 @@ nav {
 }
 .logo {
   color: #FFC8DD;
-  font-size: 1.5rem;
+  font-size: 24px;
   font-weight: bold;
   font-style: italic;
-  padding: 0 2rem;
+  padding: 0 32px;
 }
 nav a {
   text-decoration: none;
   color: #FFC8DD;
-  padding: 0 1.5rem;
+  padding: 0 24px;
 }
 nav a:hover {
   color: #c792a6;

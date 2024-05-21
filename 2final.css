@@ -11,19 +11,19 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0rem calc((100vw - 1300px) / 2);
+  padding: 0 calc((100vw - 1300px) / 2);
 }
 .logo {
   color: #FFC8DD;
-  font-size: 1.5rem;
+  font-size: 24px;
   font-weight: bold;
   font-style: italic;
-  padding: 0 2rem;
+  padding: 0 32px;
 }
 nav a {
   text-decoration: none;
   color: #FFC8DD;
-  padding: 0 1.5rem;
+  padding: 0 24px;
 }
 nav a:hover {
   color: #c792a6;
@@ -35,7 +35,7 @@ nav a:hover {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 95vh;
-  padding: 3rem calc((100vw - 1300px) / 2);
+  padding: 48px calc((100vw - 1300px) / 2);
 }
 .column-left {
   display: flex;
